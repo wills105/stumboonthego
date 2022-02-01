@@ -1,0 +1,12 @@
+body{
+    background-color: #00274C;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Headers */
+
+.title-image{
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
